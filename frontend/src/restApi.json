@@ -1,0 +1,177 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpeg",
+                "title": "ROASTED LAMB RUMP",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.jpeg",
+                "title": "CITRUS CURED SALMON",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast.jpeg",
+                "title": "PAN SEARED SEA BASS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.jpeg",
+                "title": "STUFFED STRAWBERRY",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./Scrumptious_Lasagna.jpeg",
+                "title": "SCRUMPTIOUS LASAGNA",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./Butternut_Squash_Soup.jpeg",
+                "title": "BUTTERNUT SQUASH SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Lunch"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            }
+        ],
+        
+
+
+        
+        "team": [
+    {
+        "id": 1,
+        "image": "./team_member_1.jpeg",
+        "name": "LUCAS BENNETT",
+        "designation": "Executive Chef"
+    },
+    {
+        "id": 2,
+        "image": "./team_member_2.png",
+        "name": "MARCUS RIVERA",
+        "designation": "Pastry Specialist"
+    },
+    {
+        "id": 3,
+        "image": "./team_member_3.png",
+        "name": "DEREK NGUYEN",
+        "designation": "Grill Master"
+    },
+    {
+        "id": 4,
+        "image": "./team_member_4.png",
+        "name": "EMMA CARTER",
+        "designation": "Restaurant Manager"
+    }
+],
+      
+                "who_we_are": [
+            {
+                "id": 5,
+                "number": "95%",
+                "title": "Client Satisfaction"
+            },
+            {
+                "id": 6,
+                "number": "12K",
+                "title": "Meals Served Monthly"
+            },
+            {
+                "id": 7,
+                "number": "4.9★",
+                "title": "Average Review Rating"
+            },
+            {
+                "id": 8,
+                "number": "35",
+                "title": "Team Members"
+            },
+            {
+                "id": 9,
+                "number": "100%",
+                "title": "Fresh Ingredients"
+            },
+            {
+                "id": 10,
+                "number": "18",
+                "title": "Awards Won"
+            },
+            {
+                "id": 11,
+                "number": "40+",
+                "title": "Daily Menu Options"
+            },
+            {
+                    "id": 12,
+                    "number": "7/7",
+                    "title": "Open Days"
+                }
+            ],
+
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
